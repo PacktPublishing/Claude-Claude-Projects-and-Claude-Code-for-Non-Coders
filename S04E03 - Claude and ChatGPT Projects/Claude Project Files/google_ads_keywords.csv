@@ -1,0 +1,45 @@
+campaign_name,ad_group,keyword,match_type,estimated_cpc,search_volume,keyword_intent,landing_page
+Snow Removal - Toronto,Emergency Snow Removal,emergency snow removal,Exact,$8.50,1200,High - Immediate need,/emergency-service
+Snow Removal - Toronto,Emergency Snow Removal,snow removal near me,Phrase,$6.75,8900,High - Immediate need,/emergency-service
+Snow Removal - Toronto,Emergency Snow Removal,snow plowing same day,Phrase,$7.20,450,High - Immediate need,/emergency-service
+Snow Removal - Toronto,Emergency Snow Removal,urgent snow removal,Exact,$9.10,320,High - Immediate need,/emergency-service
+Snow Removal - Toronto,Seasonal Contracts,snow removal contract,Exact,$5.40,890,Medium - Research,/seasonal-contracts
+Snow Removal - Toronto,Seasonal Contracts,seasonal snow removal,Phrase,$4.80,720,Medium - Research,/seasonal-contracts
+Snow Removal - Toronto,Seasonal Contracts,winter snow removal service,Phrase,$5.10,1100,Medium - Research,/seasonal-contracts
+Snow Removal - Toronto,Seasonal Contracts,snow plowing contract Toronto,Exact,$6.20,340,High - Local intent,/seasonal-contracts
+Snow Removal - Toronto,Residential Service,residential snow removal,Exact,$4.90,980,Medium - Research,/residential
+Snow Removal - Toronto,Residential Service,driveway snow removal,Phrase,$5.60,2400,Medium - Research,/residential
+Snow Removal - Toronto,Residential Service,home snow plowing,Phrase,$4.50,670,Medium - Research,/residential
+Snow Removal - Toronto,Residential Service,snow removal companies near me,Phrase,$7.80,3200,High - Ready to buy,/residential
+Snow Removal - Toronto,Commercial Service,commercial snow removal,Exact,$6.90,1500,Medium - B2B,/commercial
+Snow Removal - Toronto,Commercial Service,parking lot snow plowing,Phrase,$5.70,890,Medium - B2B,/commercial
+Snow Removal - Toronto,Commercial Service,business snow removal,Phrase,$6.30,560,Medium - B2B,/commercial
+Snow Removal - Toronto,Commercial Service,property management snow removal,Exact,$7.50,340,High - Qualified B2B,/commercial
+Snow Removal - Toronto,Pricing Searches,snow removal cost,Phrase,$3.20,4500,Low - Early research,/pricing
+Snow Removal - Toronto,Pricing Searches,how much is snow plowing,Phrase,$2.90,1800,Low - Early research,/pricing
+Snow Removal - Toronto,Pricing Searches,snow removal prices Toronto,Exact,$4.10,890,Medium - Local research,/pricing
+Snow Removal - Calgary,Local - Calgary,snow removal Calgary,Exact,$5.80,2100,High - Local intent,/calgary
+Snow Removal - Calgary,Local - Calgary,Calgary snow plowing,Phrase,$5.20,1600,High - Local intent,/calgary
+Snow Removal - Calgary,Local - Calgary,snow removal service Calgary,Phrase,$6.10,980,High - Local intent,/calgary
+Snow Removal - Ottawa,Local - Ottawa,snow removal Ottawa,Exact,$4.90,1800,High - Local intent,/ottawa
+Snow Removal - Ottawa,Local - Ottawa,deneigement Ottawa,Exact,$3.80,720,High - Local bilingual,/ottawa-fr
+Snow Removal - Ottawa,Local - Ottawa,Ottawa snow plowing service,Phrase,$5.40,650,High - Local intent,/ottawa
+Brand Campaign,Brand Terms,Snow Management Canada,Exact,$0.50,120,High - Brand search,/
+Brand Campaign,Brand Terms,snowmanagementcanada,Exact,$0.40,45,High - Brand search,/
+Brand Campaign,Competitor Terms,quickplow services,Exact,$3.20,230,Medium - Competitor,/why-choose-us
+Brand Campaign,Competitor Terms,winter warriors snow,Phrase,$2.80,180,Medium - Competitor,/why-choose-us
+Remarketing,Past Visitors - No Quote,snow removal,Broad,$1.20,n/a,High - Warm audience,/get-quote
+Remarketing,Past Visitors - No Quote,winter services,Broad,$0.90,n/a,High - Warm audience,/get-quote
+Remarketing,Abandoned Quote,complete your quote,Exact,$1.50,n/a,High - Hot audience,/complete-quote
+Snow Removal - GTA Expansion,Mississauga,snow removal Mississauga,Exact,$5.60,1400,High - Local intent,/mississauga
+Snow Removal - GTA Expansion,Mississauga,Mississauga snow plowing,Phrase,$4.90,890,High - Local intent,/mississauga
+Snow Removal - GTA Expansion,Brampton,snow removal Brampton,Exact,$5.10,1200,High - Local intent,/brampton
+Snow Removal - GTA Expansion,Markham,snow removal Markham,Exact,$6.20,980,High - Local intent,/markham
+Snow Removal - GTA Expansion,Vaughan,Vaughan snow removal,Phrase,$5.80,870,High - Local intent,/vaughan
+Long-tail Keywords,Specific Queries,steep driveway snow removal,Phrase,$4.20,210,Medium - Specific need,/residential
+Long-tail Keywords,Specific Queries,snow removal for seniors,Phrase,$3.80,340,Medium - Specific demo,/seniors
+Long-tail Keywords,Specific Queries,reliable snow plowing service,Phrase,$5.40,450,Medium - Quality signal,/about
+Long-tail Keywords,Specific Queries,early morning snow removal,Phrase,$4.60,280,Medium - Schedule need,/residential
+Long-tail Keywords,Questions,how to choose snow removal company,Phrase,$2.10,560,Low - Research,/blog/how-to-choose
+Long-tail Keywords,Questions,when to hire snow removal,Phrase,$1.90,420,Low - Research,/blog/when-to-hire
+Long-tail Keywords,Questions,what does snow removal cost,Phrase,$2.40,890,Medium - Pricing research,/pricing
